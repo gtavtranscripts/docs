@@ -8,9 +8,6 @@
     "dark": "#669966"
   },
   "layout": {
-  "background": {
-    "style": "grid"
-  }
 },
   "style": "/color.css",
   "favicon": "/favicon.svg",

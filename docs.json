@@ -9,8 +9,7 @@
   },
   "layout": {
 },
-  "style": [ "/color.css", 
-             "/background.css"],
+  "style": [ "/color.css" ],
   "favicon": "/favicon.svg",
   "navigation": {
     "dropdowns": [

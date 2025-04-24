@@ -30,7 +30,7 @@
         "icon": "star",
         "groups": [
           {
-            "group": "In-Order",
+            "group": "Missions",
             "icon": "star",
             "pages": [
               "/missions/story/prologue",
